@@ -4,7 +4,7 @@ from telebot import types
 import json
 import os
 
-bot = telebot.TeleBot('7937756954:AAFXwqLKMSiYZCtg7LPcjMgtYcahGiOWcx4');
+bot = telebot.TeleBot('Secret Token');
 
 PASSWORD = '02.11.2003'
 
